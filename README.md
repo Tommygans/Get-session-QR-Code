@@ -1,3 +1,3 @@
-## `SCAN QR`
+## `SCAN QR YA MEK`
 
-[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+[`Click Here`](https://replit.com/@Tommygans/Qrcode-by-Tommy)
